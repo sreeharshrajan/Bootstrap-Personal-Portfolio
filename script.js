@@ -14,4 +14,3 @@ navLinks.forEach(link => {
         selectElement(".burger-menu-icon").classList.toggle("toggle")
     })
 })
-
